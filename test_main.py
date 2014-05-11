@@ -1,4 +1,4 @@
 import main
 
 def test_main():
-    assert main.main() == 43
+    assert main.main() == 42
